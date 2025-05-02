@@ -1,0 +1,8 @@
+For Global .env file 
+
+
+PORT=3000
+
+MONGO_URI="mongodb://127.0.0.1:27017/moviesApp"
+NODE_ENV="development"
+JWT_SECRET=sdasdasdadsdf2342
