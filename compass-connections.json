@@ -1,0 +1,45 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "2529263f-9fe7-4b4f-bc7d-5803f486d0c3",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1745928695607"
+        }
+      },
+      "favorite": {
+        "name": "Chat App"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    },
+    {
+      "id": "93e8308f-9327-41b3-a780-d13e774f7bdf",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1745928700946"
+        }
+      },
+      "favorite": {
+        "name": "",
+        "color": "no-color"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
