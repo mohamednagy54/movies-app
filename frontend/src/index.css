@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+body {
+  background: #0f0f10;
+  color: #fff;
+}
+
+input,
+textarea {
+  color: #000;
+  background: white;
+}
+
+/* select option {
+  color: black;
+  background: white;
+} */
+
+.absolute-center {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translateX(-50%);
+}
+
+.slick-next{
+  right: 5px !important;
+} 
+.slick-prev{
+  left: -20px !important;
+} 
